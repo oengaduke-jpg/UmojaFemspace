@@ -1,0 +1,11 @@
+package com.umojafemspace.app
+
+data class RepaymentSchedule(
+    val scheduleId: String,
+    val loanId: String,
+    val installmentNumber: Int,
+    val dueDate: String,
+    val amountDue: Double,
+    val repaymentFrequency: String,
+    val status: String
+)
