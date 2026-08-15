@@ -1,0 +1,8 @@
+package com.umojafemspace.ui
+
+data class GuarantorActivity(
+    val fullName: String,
+    val nationalId: String,
+    val phoneNumber: String,
+    val relationship: String
+)
