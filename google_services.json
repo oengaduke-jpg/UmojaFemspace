@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780501609505",
+    "project_id": "umoja-femspace",
+    "storage_bucket": "umoja-femspace.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780501609505:android:3b7e07bca4685cce9b4760",
+        "android_client_info": {
+          "package_name": "com.umojafemspace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh386L3fDF5t1-LrCAxBCdSogR5sM3at8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
